@@ -1,4 +1,6 @@
-# dwyl Process Handbook
+# Process Handbook
+
+This guide is borrowed and built on the guide created by our friends [@dwyl](https://github.com/dwyl), thanks so much for open-sourcing your processes for the betterment of tech projects everywhere! :)
 
 Contains our processes, questions and journey to creating ateam.
 
